@@ -1,0 +1,3 @@
+CREATE DATABASE cbl_prod;
+CREATE DATABASE cbl_dev;
+CREATE DATABASE cbl_test;
